@@ -1,0 +1,13 @@
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\bin\Debug\netcoreapp3.1\MidtermProject.exe
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\bin\Debug\netcoreapp3.1\MidtermProject.deps.json
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\bin\Debug\netcoreapp3.1\MidtermProject.runtimeconfig.json
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\bin\Debug\netcoreapp3.1\MidtermProject.runtimeconfig.dev.json
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\bin\Debug\netcoreapp3.1\MidtermProject.dll
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\bin\Debug\netcoreapp3.1\MidtermProject.pdb
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\obj\Debug\netcoreapp3.1\MidtermProject.csprojAssemblyReference.cache
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\obj\Debug\netcoreapp3.1\MidtermProject.AssemblyInfoInputs.cache
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\obj\Debug\netcoreapp3.1\MidtermProject.AssemblyInfo.cs
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\obj\Debug\netcoreapp3.1\MidtermProject.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\obj\Debug\netcoreapp3.1\MidtermProject.dll
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\obj\Debug\netcoreapp3.1\MidtermProject.pdb
+C:\Users\Peter\Desktop\COMPE 361\MidtermProject\MidtermProject\obj\Debug\netcoreapp3.1\MidtermProject.genruntimeconfig.cache
